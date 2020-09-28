@@ -31,6 +31,7 @@ require (
 	github.com/urfave/cli v1.22.2
 	golang.org/x/crypto v0.0.0-20200414173820-0848c9571904
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	gopkg.in/square/go-jose.v2 v2.2.2
 	k8s.io/api v0.18.6
 	k8s.io/apiextensions-apiserver v0.18.0
 	k8s.io/apimachinery v0.18.6
